@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Trình Dịch Thuật Trực Tiếp Việt-Trung 1",
+  "description": "Một ứng dụng phiên dịch thời gian thực tự động phát hiện và dịch thuật qua lại giữa tiếng Việt và tiếng Trung bằng giọng nói.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
